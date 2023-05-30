@@ -17,4 +17,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-[Biochemistry](Biochemistry/index.html)
+[Biochemistry](Biochemistry/index.md)
+[Biochemistry](Biochemistry/Biochemistry.md)
