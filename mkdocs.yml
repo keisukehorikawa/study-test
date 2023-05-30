@@ -2,6 +2,7 @@ site_name: Study room
 
 theme:
   name: material
+  language: ja
 
 markdown_extensions:
   - pymdownx.arithmatex:
