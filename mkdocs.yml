@@ -3,6 +3,8 @@ site_name: Study room
 theme:
   name: material
   language: ja
+  features:
+    - navigation.tabs
 
 markdown_extensions:
   - pymdownx.arithmatex:
